@@ -11,7 +11,7 @@ function Footer() {
         <i className="fa-brands fa-instagram"></i>
         <i className="fa-brands fa-linkedin-in"></i>
       </div>
-      <p>Made with <i className="fa fa-heart-o"></i> by Ammad</p>
+      <p>Made with 💌 by Mian Ahmed</p>
     </section>
   );
 }
