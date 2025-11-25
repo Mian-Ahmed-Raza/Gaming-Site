@@ -17,7 +17,7 @@ function Home() {
       {/* Header Section */}
       <section className="header">
         <div className="text-box">
-          <h1>AHMAD MUAZ GAMING</h1>
+          <h1>MIAN AHMED GAMING</h1>
           <p>
             Gaming is now a full-blown industry where newbies are making their mark just by playing. <br />
             You can be a gamer too—earn, grow, and dominate.
